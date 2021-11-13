@@ -1,4 +1,4 @@
 <?php
 
-$hoje = date('d/m/y');
-echo $hoje;
+$agora = date('d/m/y H:i');
+echo $agora;
